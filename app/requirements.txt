@@ -1,5 +1,5 @@
 django==2.2.4
 gunicorn==19.9.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 django-multidb-router==0.9
 Faker==2.0.5
