@@ -1,4 +1,4 @@
-django==2.2.4
+django==2.2.20
 gunicorn==19.9.0
 djangorestframework==3.10.3
 django-multidb-router==0.9
